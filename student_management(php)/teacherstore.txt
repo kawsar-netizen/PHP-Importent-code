@@ -1,0 +1,1 @@
+INSERT INTO teachers (name,mobile,courses)values ('Digital Decoder Ltd.','1235781234','asdasdfghj')
